@@ -1,0 +1,65 @@
+10
+
+dir
+5
+https://github.com/djq1102/weixin/trunk/src/main/java/com/hongte/weixin
+https://github.com/djq1102/weixin
+
+
+
+2014-01-12T14:59:36.000000Z
+5
+djq1102
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a92fd4c7-a576-65ec-92d5-ce57b7db7bff
+
+action
+dir
+
+config
+dir
+
+domain
+dir
+
+
+
+add
+
+message
+dir
+
+mybatis
+dir
+
+
+
+add
+
+service
+dir
+
+
+
+add
+
+util
+dir
+
+
+
+add
+

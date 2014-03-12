@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd" >
+<configuration>
+	<mappers>
+		<mapper resource="com/hongte/weixin/mybatis/sqlmap/XdMnCwsupMapper.xml" />
+		<mapper resource="com/hongte/weixin/mybatis/sqlmap/TCarMapper.xml" />
+		<mapper resource="com/hongte/weixin/mybatis/sqlmap/XdCustcarinfoMapper.xml" />
+		<mapper resource="com/hongte/weixin/mybatis/sqlmap/AvwFileprocessMapper.xml" />
+		<mapper resource="com/hongte/weixin/mybatis/sqlmap/XdKkdetailMapper.xml" />
+		<mapper resource="com/hongte/weixin/mybatis/sqlmap/AvwXdOtherMapper.xml" />
+		<mapper resource="com/hongte/weixin/mybatis/sqlmap/XdDkdetailtobankMapper.xml" />
+	</mappers>
+</configuration>

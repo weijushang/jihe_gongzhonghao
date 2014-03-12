@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/djq1102/weixin/!svn/ver/1/trunk/src/main/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/djq1102/weixin/!svn/ver/1/trunk/src/main/resources/log4j.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/djq1102/weixin/!svn/ver/1/trunk/src/main/resources/applicationContext.xml
+END
+struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/djq1102/weixin/!svn/ver/1/trunk/src/main/resources/struts.xml
+END
+struts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/djq1102/weixin/!svn/ver/1/trunk/src/main/resources/struts.properties
+END

@@ -1,0 +1,42 @@
+10
+
+dir
+0
+https://github.com/djq1102/weixin/trunk/src/test/java/com/llyuntong/base/util
+https://github.com/djq1102/weixin
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a92fd4c7-a576-65ec-92d5-ce57b7db7bff
+
+MyBatisGeneratorTool.java
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

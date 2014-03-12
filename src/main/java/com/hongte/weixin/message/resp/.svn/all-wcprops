@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/djq1102/weixin/!svn/ver/1/trunk/src/main/java/com/hongte/weixin/message/resp
+END
+TextMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/djq1102/weixin/!svn/ver/1/trunk/src/main/java/com/hongte/weixin/message/resp/TextMessage.java
+END
+Article.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/djq1102/weixin/!svn/ver/1/trunk/src/main/java/com/hongte/weixin/message/resp/Article.java
+END
+BaseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/djq1102/weixin/!svn/ver/1/trunk/src/main/java/com/hongte/weixin/message/resp/BaseMessage.java
+END
+Music.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/djq1102/weixin/!svn/ver/1/trunk/src/main/java/com/hongte/weixin/message/resp/Music.java
+END
+NewsMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/djq1102/weixin/!svn/ver/1/trunk/src/main/java/com/hongte/weixin/message/resp/NewsMessage.java
+END
+MusicMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/djq1102/weixin/!svn/ver/1/trunk/src/main/java/com/hongte/weixin/message/resp/MusicMessage.java
+END

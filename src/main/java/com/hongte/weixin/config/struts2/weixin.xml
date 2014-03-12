@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+	<package name="weixinPackage" namespace="/" extends="basePackage">
+		<!-- 支付请求接入 -->
+		<action name="index" class="com.hongte.weixin.action.WeixinAction" method="index"/>
+		
+		<action name="monthQuery" class="com.hongte.weixin.action.WeixinServerAction" method="monthQuery">
+			<result name="success" type="json">
+				<param name="root">content</param>  
+			</result>
+		</action>
+		<action name="balanceQuery" class="com.hongte.weixin.action.WeixinServerAction" method="balanceQuery">
+			<result name="success" type="json">
+				<param name="root">content</param>  
+			</result>
+		</action>
+		<action name="expireRemind" class="com.hongte.weixin.action.WeixinServerAction" method="expireRemind">
+			<result name="success" type="json">
+				<param name="root">content</param>  
+			</result>
+		</action>
+		<action name="carQuery" class="com.hongte.weixin.action.WeixinServerAction" method="queryParentCar">
+			<result name="success" type="json">
+				<param name="root">cars</param>  
+			</result>
+		</action>
+		
+		<action name="carQueryByParent" class="com.hongte.weixin.action.WeixinServerAction" method="queryCarByParent">
+			<result name="success" type="json">
+				<param name="root">cars</param>  
+			</result>
+		</action>
+	</package>
+</struts>
